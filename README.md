@@ -15,7 +15,7 @@
 
 ### ***Getting Started***
 
-Start by opening a new terminal window.
+Start by opening a new te(tryingtoforceamergeconflict)rminal window.
 changing test
 
 Navigate into the cloned repo for the Travel Blog (should be called "mern-fullstack").
