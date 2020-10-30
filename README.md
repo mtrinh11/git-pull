@@ -1,6 +1,7 @@
 # Git Pull
 
 ![One Does Not Simply...](https://i.imgur.com/1iyfbDr.jpg)
+
 ***
 
 ## A quick walk-through of how to perform the _git pull_ command.
